@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+  <title id="title">Jiahao Zhang · 张嘉豪</title>
+  <desc id="desc">Java Backend · AI Applications. 从业务一致性到 Agent 工程化。</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="0.65">
+      <stop offset="0" stop-color="#102751"/><stop offset="0.56" stop-color="#155f91"/><stop offset="1" stop-color="#159b99"/>
+    </linearGradient>
+    <linearGradient id="accent"><stop stop-color="#8af4d7"/><stop offset="1" stop-color="#b8e9ff"/></linearGradient>
+  </defs>
+  <rect width="1200" height="320" rx="22" fill="url(#bg)"/>
+  <circle cx="1120" cy="18" r="230" fill="#9ff6e2" opacity=".06"/>
+  <circle cx="1100" cy="24" r="163" fill="none" stroke="#c1fff0" stroke-opacity=".12"/>
+  <path d="M0 284 Q270 231 570 287 T1200 263 V320 H0Z" fill="#71edcc" opacity=".10"/>
+  <path d="M0 303 Q310 267 620 305 T1200 288 V320 H0Z" fill="#bafcf1" opacity=".08"/>
+  <g font-family="Segoe UI, Microsoft YaHei, Arial, sans-serif">
+    <rect x="48" y="42" width="227" height="28" rx="14" fill="#091c39" fill-opacity=".34" stroke="#9de9df" stroke-opacity=".28"/>
+    <circle cx="64" cy="56" r="4" fill="#88f4ca"/>
+    <text x="78" y="61" font-size="12" font-weight="600" letter-spacing="1.5" fill="#d3fff3">BACKEND / AI ENGINEERING</text>
+    <text x="46" y="141" font-size="56" font-weight="700" letter-spacing="-1" fill="#ffffff">Jiahao Zhang</text>
+    <text x="431" y="139" font-size="31" font-weight="500" fill="#d5f5f3">张嘉豪</text>
+    <text x="49" y="187" font-size="23" font-weight="500" fill="#e2f5ff">Java Backend · AI Applications</text>
+    <rect x="49" y="212" width="38" height="3" rx="1.5" fill="url(#accent)"/>
+    <text x="49" y="248" font-size="19" fill="#c3e8f1">从业务一致性到 Agent 工程化</text>
+    <g transform="translate(855 73)">
+      <path d="M69 46 H179 V147 H69" fill="none" stroke="#a1f6e5" stroke-opacity=".55" stroke-width="2" stroke-dasharray="5 6"/>
+      <rect x="0" y="0" width="136" height="89" rx="16" fill="#092c50" fill-opacity=".38" stroke="#a5e9e2" stroke-opacity=".35"/>
+      <text x="21" y="31" font-size="11" letter-spacing="2" fill="#b6e8ed">BUILD</text>
+      <text x="20" y="64" font-size="26" font-weight="600" fill="#ffffff">Backend</text>
+      <rect x="66" y="104" width="170" height="89" rx="16" fill="#073e57" fill-opacity=".48" stroke="#a5f3de" stroke-opacity=".45"/>
+      <text x="86" y="135" font-size="11" letter-spacing="2" fill="#c5f9e7">EXPLORE</text>
+      <text x="86" y="168" font-size="25" font-weight="600" fill="#ffffff">AI Agents</text>
+      <circle cx="179" cy="46" r="5" fill="#b2ffe8"/>
+    </g>
+  </g>
+</svg>

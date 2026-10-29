@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="96" height="96" viewBox="0 0 96 96" role="img" aria-label="CampusDash project icon">
+<rect width="96" height="96" rx="22" fill="#e9f2ff"/>
+<path d="M26 32h38a9 9 0 0 1 9 9v25H30a9 9 0 0 1-9-9V37a5 5 0 0 1 5-5Z" fill="#2463eb"/>
+<path d="M33 32v-5a8 8 0 0 1 8-8h12a8 8 0 0 1 8 8v5" fill="none" stroke="#2463eb" stroke-width="5"/>
+<path d="M34 47h24m-10-8 10 8-10 8" fill="none" stroke="#fff" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="33" cy="73" r="5" fill="#173f91"/><circle cx="64" cy="73" r="5" fill="#173f91"/>
+</svg>
